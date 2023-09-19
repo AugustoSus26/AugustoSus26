@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bom dia, boa tarde, boa noite!
 
 <!--
 **AugustoSus26/AugustoSus26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
